@@ -1,5 +1,6 @@
+*/__pycache__/*
+*/.ipynb_checkpoints/*
 homework/D07 data/*
 homework/averaged_perceptron_tagger/*
 homework/D20_KNN 實作_spam_data/*
-*/__pycache__/*
-*/.ipynb_checkpoints/*
+新聞分類器/data/*
